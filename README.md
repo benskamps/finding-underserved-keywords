@@ -1,5 +1,7 @@
 # finding-underserved-keywords
 
+> **📦 Now part of [seo-superpower](https://github.com/benskamps/seo-superpower)** — a full Claude Code plugin for end-to-end SEO + GEO. This skill remains here as a standalone install option, but for the complete experience (bootstrap, audit, refresh, GEO citation tracking, all routed via one `/seo` command), install the plugin instead.
+
 A [Claude Code](https://claude.com/claude-code) skill for finding "striking distance" SEO keywords — queries your page already gets impressions for but doesn't actually mention — and weaving them into existing content. Covers the full content lifecycle (initial → growth → mature) and integrates Generative Engine Optimization (GEO) for AI-search visibility.
 
 Distilled from a thread by [@seo_wins](https://x.com/seo_wins) on X, then research-enriched with industry data on striking-distance methodology, content decay, AI Overview impact, and GEO citation tactics. Every claim is cited and verification-tagged in [SOURCES.md](SOURCES.md).
