@@ -1,6 +1,8 @@
 # finding-underserved-keywords
 
-> **📦 Now part of [seo-superpower](https://github.com/benskamps/seo-superpower)** — a full Claude Code plugin for end-to-end SEO + GEO. This skill remains here as a standalone install option, but for the complete experience (bootstrap, audit, refresh, GEO citation tracking, all routed via one `/seo` command), install the plugin instead.
+> **Canonical home: [github.com/benskamps/seo-superpower](https://github.com/benskamps/seo-superpower)** — the full Claude Code plugin for end-to-end SEO + GEO.
+>
+> This repo is a **standalone snapshot of one skill**, last synced **2026-04-27**. It is currently identical to the plugin's copy and is updated only on plugin releases. **If those dates look stale, the plugin copy is newer — prefer it.** For the complete experience (bootstrap, audit, refresh, GEO citation tracking, all routed via one `/seo` command), install the plugin instead.
 
 A [Claude Code](https://claude.com/claude-code) skill for finding "striking distance" SEO keywords — queries your page already gets impressions for but doesn't actually mention — and weaving them into existing content. Covers the full content lifecycle (initial → growth → mature) and integrates Generative Engine Optimization (GEO) for AI-search visibility.
 
@@ -19,14 +21,9 @@ When you (or Claude) start working on SEO optimization, content refreshes, or as
 
 ## Install
 
-Drop it into your personal skills directory:
+Drop it into your personal skills directory (same command on Mac, Linux, and Windows Git Bash):
 
 ```bash
-# Claude Code (Mac/Linux)
-git clone https://github.com/benskamps/finding-underserved-keywords \
-  ~/.claude/skills/finding-underserved-keywords
-
-# Claude Code (Windows, Git Bash)
 git clone https://github.com/benskamps/finding-underserved-keywords \
   ~/.claude/skills/finding-underserved-keywords
 ```
@@ -65,3 +62,7 @@ Full source list with authority tiers and verification tags: [SOURCES.md](SOURCE
 ## License
 
 MIT — see [LICENSE](LICENSE). Use it, fork it, improve it.
+
+---
+
+*Part of the [Brokenbranch Lab](https://www.brokenbranch.dev/lab/).*
